@@ -1,7 +1,7 @@
 import pygame
 import random
 import copy
-import array as arr
+#import array as arr
 win_x = 800
 win_y = 600
 box_size = 100
