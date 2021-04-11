@@ -1,4 +1,4 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe AI,
-Just run the .py file to play the game.
-Required library : Pygame
+<p>Tic-Tac-Toe AI,</p>
+<p>Just run the .py file to play the game.</p>
+<p>Required library : Pygame</p>
